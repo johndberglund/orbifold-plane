@@ -1,2 +1,2 @@
 # orbifold-plane
-Draw in any of the 17 plane symmetry groups. (Wallpaper groups) This is online at https://johndberglund.github.io/orbifold-plane/
+Draw in any of the 17 plane symmetry groups. (Wallpaper groups) This is online at https://johndberglund.github.io/orbifold-plane/ Select one of the plane orbifolds along the top. You can draw lines, regular polygons or circles. If you choose the arrow, you can move the control points for each of the shapes. You can change colors or fill. Ignore the lower arrows, they are leftovers that I haven't yet removed. You can enable snapping to special points or lines.
